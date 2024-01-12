@@ -3,7 +3,8 @@ Archiv für Dateien
 werde hier Dateien, die ich in der Whatsappgruppe "KDM23B" hochlade, hier auch nochmal hochladen damit nichts verloren geht.
 
 Hier ist der jetzige Stand (11.01.24) für die Module in LF3 (Module 6-12 lade ich hoch wenn die Klausur ansteht!): 
-![image](https://github.com/ReinerBalschun/Files-Upload-MMBBS/assets/152055446/bebd5556-7257-460e-959c-052ce46beb1f)
+![Modul LF 3 gif (1)](https://github.com/ReinerBalschun/Files-Upload-MMBBS/assets/152055446/429531d9-4a8d-4c84-ab26-d9f551fb20c4)
+
 
 Hier ist mein aktuteller Stand an verwendeten Plugins in Obsidian:
-![image](https://github.com/ReinerBalschun/Files-Upload-MMBBS/assets/152055446/63c3a5ce-fc81-419b-9993-9ac27cf0707b)
+![image](https://github.com/ReinerBalschun/Files-Upload-MMBBS/assets/152055446/0a5f73ea-7005-4e2f-a68c-345b34762b7f)
