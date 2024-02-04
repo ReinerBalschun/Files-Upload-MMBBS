@@ -12,4 +12,7 @@ Beim Benutzen des Python Quellcode nicht vergessen das Python Plugin in VS Code 
 
 
 Hier ist mein aktuteller Stand an verwendeten Plugins in Obsidian:
-![image](https://github.com/ReinerBalschun/Files-Upload-MMBBS/assets/152055446/0a5f73ea-7005-4e2f-a68c-345b34762b7f)
+![Obsidian Plugin List gif (3)](https://github.com/ReinerBalschun/Files-Upload-MMBBS/assets/152055446/6b7bdc18-1aed-43d4-acba-a98957b68a0c)
+
+So sieht mein Vault (Stand 04.02.2024) aus:
+![image](https://github.com/ReinerBalschun/Files-Upload-MMBBS/assets/152055446/124cdf03-9eac-4835-921f-fbf958b2d5ab)
