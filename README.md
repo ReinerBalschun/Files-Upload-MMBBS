@@ -2,8 +2,10 @@
 Archiv für Dateien
 werde hier Dateien hochladen damit nichts verloren geht.
 
-Hier ist der jetzige Stand (11.01.24) für die Module in LF3 (Module 8-17 lade ich hoch wenn die Klausur ansteht!): 
-![Modul LF 3 gif (1)](https://github.com/ReinerBalschun/Files-Upload-MMBBS/assets/152055446/429531d9-4a8d-4c84-ab26-d9f551fb20c4)
+Hier ist der jetzige Stand (06.02.24) für die Module in LF3:
+
+![Modulauswahl](https://github.com/ReinerBalschun/Files-Upload-MMBBS/assets/152055446/f47f1040-06e8-49af-a5a5-07905ee9a46a)
+
 
 
 Beim Benutzen des Python Quellcode nicht vergessen das Python Plugin in VS Code zu installieren und aus dem "Restricted Mode" ins "Trusted Window" zu wechseln:
